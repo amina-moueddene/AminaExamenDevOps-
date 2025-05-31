@@ -1,0 +1,8 @@
+2024-01-15 10:30:00 INFO Application démarrée
+2024-01-15 10:31:00 ERROR Connexion à la base de données échouée
+2024-01-15 10:32:00 WARNING Mémoire faible
+2024-01-15 10:33:00 INFO Utilisateur connecté
+2024-01-15 10:34:00 ERROR Fichier non trouvé
+2024-01-15 10:35:00 INFO Sauvegarde effectuée
+2024-01-15 10:36:00 WARNING Disque plein à 85%
+2024-01-15 10:37:00 ERROR Timeout de connexion
