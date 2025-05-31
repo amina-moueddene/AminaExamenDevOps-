@@ -4,7 +4,7 @@ from datetime import datetime
 def analyze_log_file(log_file_path):
     """Analyse le fichier de log et compte les différents niveaux"""
     if not os.path.exists(log_file_path):
-        print(f"Erreur: Le fichier {log_file_path} n'existe pas")
+        print(f"Erreur: Le fichier {log_file_path}  il n'existe pas")
         return None
     
     error_count = 0
